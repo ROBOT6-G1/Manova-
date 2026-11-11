@@ -1,0 +1,6 @@
+{
+  "name": "MazavaPro AI - Fanadiovana sy Fandaminana Sary",
+  "description": "Fampiharana IA matihanina manitsy sary mirirana (cadre), manazava sary maizina na manjavozavo, ary mitahiry 100% ny kalitao, soratra, logo ary tabilao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
